@@ -1,4 +1,4 @@
-ARG BASETAG=release-37.7.0
+ARG BASETAG=release-34.6.0
 FROM docker.io/rucio/rucio-clients:$BASETAG
 
 USER root
