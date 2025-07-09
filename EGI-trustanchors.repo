@@ -3,4 +3,4 @@ name=EGI-trustanchors
 baseurl=https://repository.egi.eu/sw/production/cas/1/current/
 enabled=1
 gpgcheck=1
-gpgkey=https://repository.egi.eu/sw/production/cas/1/GPG-KEY-EUGridPMA-RPM-3
+gpgkey=https://repository.egi.eu/sw/production/cas/1/GPG-KEY-EUGridPMA-RPM-4
