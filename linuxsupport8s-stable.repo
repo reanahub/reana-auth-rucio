@@ -1,0 +1,8 @@
+[linuxsupport8s-stable]
+name=linuxsupport [stable]
+baseurl=https://linuxsoft.cern.ch/cern/centos/8/CERN/$basearch
+enabled=1
+gpgcheck=False
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-koji file:///etc/pki/rpm-gpg/RPM-GPG-KEY-kojiv2
+priority=1
+protect=1
